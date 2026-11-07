@@ -7,8 +7,8 @@ It does not contain the application source, credentials, signing files, books or
 - Privacy Policy: https://huiujun.github.io/privacy.html
 - Windows download: https://huiujun.github.io/windows.html
 - Authorized advertising sellers: https://huiujun.github.io/app-ads.txt
-- Developer: 이스로운
-- Contact: huijun369@gmail.com
+- Developer: isrown
+- Contact: isrown369@gmail.com
 
 The site has no login, payment or upload forms and no custom visitor analytics.
 Update the policy together with changes to the app's actual data practices.
